@@ -19,6 +19,8 @@ The dataset consists of cell images categorized into parasitized and uninfected 
 ## Model Architecture
 
 ![Model Summary](model_summary.png)
+
+
 The CNN model is designed with three convolutional layers followed by max-pooling layers. The final layer is a softmax layer for classification.
 
 ## Model Training and Evaluation
