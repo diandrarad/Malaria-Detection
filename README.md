@@ -30,7 +30,7 @@ The model is trained with early stopping to prevent overfitting. The training hi
 
 ### Results
 ![Model Accuracy and Loss](accuracy_loss_plot.png)
-The project evaluates the model's accuracy and loss on both the training and validation sets, with 94% accuracy on the validation set.
+The project evaluates the model's accuracy and loss on both the training and validation sets, with 95% accuracy on both the training and validation sets.
 
 ## Credits
 * Dataset: [Cell Images for Detecting Malaria](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria).
