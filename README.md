@@ -1,5 +1,7 @@
 # Malaria Detection with Convolutional Neural Network
 
+![Streamlit App](app.gif)
+
 This project aims to develop a machine-learning model for detecting malaria from cell images using a Convolutional Neural Network (CNN). The dataset used for this project is the [Cell Images for Detecting Malaria](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) available on Kaggle.
 
 ## Dependencies
